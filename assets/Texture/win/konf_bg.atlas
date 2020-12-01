@@ -1,0 +1,76 @@
+
+konf_bg.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Det_1
+  rotate: false
+  xy: 155, 196
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+Det_2
+  rotate: false
+  xy: 2, 26
+  size: 55, 133
+  orig: 55, 133
+  offset: 0, 0
+  index: -1
+Det_3
+  rotate: false
+  xy: 102, 190
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+Symbol_2
+  rotate: false
+  xy: 2, 161
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+confetti/C_1
+  rotate: true
+  xy: 210, 202
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+confetti/C_2
+  rotate: true
+  xy: 210, 150
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+confetti/C_3
+  rotate: true
+  xy: 59, 109
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+confetti/C_4
+  rotate: true
+  xy: 59, 57
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+confetti/C_7
+  rotate: false
+  xy: 59, 24
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+confetti/C_8
+  rotate: false
+  xy: 93, 24
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

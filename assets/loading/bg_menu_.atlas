@@ -1,0 +1,236 @@
+
+bg_menu_.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 729, 508
+  size: 233, 260
+  orig: 233, 260
+  offset: 0, 0
+  index: -1
+L2
+  rotate: false
+  xy: 635, 4
+  size: 157, 139
+  orig: 157, 139
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 737, 770
+  size: 237, 250
+  orig: 237, 250
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 729, 341
+  size: 259, 165
+  orig: 259, 165
+  offset: 0, 0
+  index: -1
+bird1
+  rotate: false
+  xy: 923, 37
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+cloud-2
+  rotate: false
+  xy: 794, 58
+  size: 220, 85
+  orig: 220, 85
+  offset: 0, 0
+  index: -1
+coastwater
+  rotate: true
+  xy: 635, 282
+  size: 631, 92
+  orig: 631, 92
+  offset: 0, 0
+  index: -1
+islands
+  rotate: false
+  xy: 635, 145
+  size: 366, 135
+  orig: 366, 135
+  offset: 0, 0
+  index: -1
+mount1
+  rotate: true
+  xy: 964, 531
+  size: 237, 54
+  orig: 237, 54
+  offset: 0, 0
+  index: -1
+mount2
+  rotate: false
+  xy: 2, 915
+  size: 733, 105
+  orig: 733, 105
+  offset: 0, 0
+  index: -1
+rocks1
+  rotate: false
+  xy: 794, 2
+  size: 127, 54
+  orig: 127, 54
+  offset: 0, 0
+  index: -1
+sand
+  rotate: false
+  xy: 2, 4
+  size: 631, 187
+  orig: 631, 187
+  offset: 0, 0
+  index: -1
+shadopalm
+  rotate: true
+  xy: 976, 871
+  size: 149, 40
+  orig: 149, 40
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 193
+  size: 631, 720
+  orig: 631, 720
+  offset: 0, 0
+  index: -1
+
+bg_menu_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L3
+  rotate: false
+  xy: 233, 85
+  size: 157, 227
+  orig: 157, 227
+  offset: 0, 0
+  index: -1
+L4
+  rotate: true
+  xy: 233, 2
+  size: 81, 169
+  orig: 81, 169
+  offset: 0, 0
+  index: -1
+L5
+  rotate: false
+  xy: 519, 130
+  size: 105, 182
+  orig: 105, 182
+  offset: 0, 0
+  index: -1
+L6
+  rotate: true
+  xy: 404, 5
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+L7
+  rotate: true
+  xy: 626, 113
+  size: 73, 151
+  orig: 73, 151
+  offset: 0, 0
+  index: -1
+L8
+  rotate: false
+  xy: 392, 122
+  size: 125, 190
+  orig: 125, 190
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 812, 633
+  size: 159, 228
+  orig: 159, 228
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 812, 863
+  size: 210, 157
+  orig: 210, 157
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 233, 419
+  size: 322, 169
+  orig: 322, 169
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 626, 188
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+Lshadow
+  rotate: true
+  xy: 711, 403
+  size: 217, 97
+  orig: 217, 97
+  offset: 0, 0
+  index: -1
+cloud-1
+  rotate: false
+  xy: 233, 314
+  size: 296, 103
+  orig: 296, 103
+  offset: 0, 0
+  index: -1
+cloud-3
+  rotate: true
+  xy: 557, 384
+  size: 204, 72
+  orig: 204, 72
+  offset: 0, 0
+  index: -1
+pillar1
+  rotate: false
+  xy: 2, 28
+  size: 229, 560
+  orig: 229, 560
+  offset: 0, 0
+  index: -1
+sand2
+  rotate: false
+  xy: 2, 590
+  size: 631, 193
+  orig: 631, 193
+  offset: 0, 0
+  index: -1
+sea
+  rotate: false
+  xy: 2, 785
+  size: 631, 235
+  orig: 631, 235
+  offset: 0, 0
+  index: -1
+stone
+  rotate: true
+  xy: 635, 352
+  size: 668, 74
+  orig: 668, 74
+  offset: 0, 0
+  index: -1
+wawes1
+  rotate: true
+  xy: 711, 622
+  size: 398, 99
+  orig: 398, 99
+  offset: 0, 0
+  index: -1

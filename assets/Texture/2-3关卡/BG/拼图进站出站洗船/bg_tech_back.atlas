@@ -1,0 +1,145 @@
+
+bg_tech_back.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_assembly_Back/Buy_sea
+  rotate: false
+  xy: 853, 394
+  size: 126, 45
+  orig: 126, 45
+  offset: 0, 0
+  index: -1
+Bg_assembly_Back/DOCK_BG_1_2
+  rotate: true
+  xy: 704, 441
+  size: 578, 275
+  orig: 578, 275
+  offset: 0, 0
+  index: -1
+Bg_assembly_Back/Lighthouse
+  rotate: true
+  xy: 704, 215
+  size: 224, 147
+  orig: 224, 147
+  offset: 0, 0
+  index: -1
+Bg_assembly_Back/waterline_BG
+  rotate: false
+  xy: 2, 9
+  size: 1000, 134
+  orig: 1000, 134
+  offset: 0, 0
+  index: -1
+foam2
+  rotate: true
+  xy: 981, 703
+  size: 316, 20
+  orig: 316, 20
+  offset: 0, 0
+  index: -1
+foam4
+  rotate: false
+  xy: 704, 148
+  size: 276, 65
+  orig: 276, 65
+  offset: 0, 0
+  index: -1
+foam5
+  rotate: true
+  xy: 1003, 845
+  size: 174, 18
+  orig: 174, 18
+  offset: 0, 0
+  index: -1
+gull
+  rotate: true
+  xy: 1003, 812
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+sky1
+  rotate: false
+  xy: 2, 583
+  size: 700, 436
+  orig: 700, 436
+  offset: 0, 0
+  index: -1
+sky2
+  rotate: false
+  xy: 2, 145
+  size: 700, 436
+  orig: 700, 436
+  offset: 0, 0
+  index: -1
+
+bg_tech_back2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_assembly_Back/DOCK_BG_1_1
+  rotate: true
+  xy: 705, 478
+  size: 525, 284
+  orig: 525, 284
+  offset: 0, 0
+  index: -1
+Foam1
+  rotate: true
+  xy: 821, 209
+  size: 267, 77
+  orig: 267, 77
+  offset: 0, 0
+  index: -1
+cloud-1
+  rotate: true
+  xy: 705, 147
+  size: 329, 114
+  orig: 329, 114
+  offset: 0, 0
+  index: -1
+cloud-2
+  rotate: true
+  xy: 900, 231
+  size: 245, 94
+  orig: 245, 94
+  offset: 0, 0
+  index: -1
+cloud-3
+  rotate: false
+  xy: 343, 2
+  size: 228, 80
+  orig: 228, 80
+  offset: 0, 0
+  index: -1
+foam3
+  rotate: false
+  xy: 2, 32
+  size: 339, 50
+  orig: 339, 50
+  offset: 0, 0
+  index: -1
+foam6
+  rotate: false
+  xy: 2, 84
+  size: 514, 80
+  orig: 514, 80
+  offset: 0, 0
+  index: -1
+sea3
+  rotate: false
+  xy: 2, 584
+  size: 701, 419
+  orig: 701, 419
+  offset: 0, 0
+  index: -1
+sea4
+  rotate: false
+  xy: 2, 166
+  size: 701, 416
+  orig: 701, 416
+  offset: 0, 0
+  index: -1

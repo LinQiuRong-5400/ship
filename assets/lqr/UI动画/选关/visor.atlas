@@ -1,0 +1,55 @@
+
+visor.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: true
+  xy: 483, 569
+  size: 214, 96
+  orig: 214, 96
+  offset: 0, 0
+  index: -1
+border
+  rotate: true
+  xy: 399, 385
+  size: 398, 82
+  orig: 398, 82
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 513
+  size: 395, 270
+  orig: 395, 270
+  offset: 0, 0
+  index: -1
+holder
+  rotate: false
+  xy: 2, 785
+  size: 606, 236
+  orig: 606, 236
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 361, 237
+  orig: 361, 237
+  offset: 0, 0
+  index: -1
+stage1
+  rotate: false
+  xy: 610, 776
+  size: 393, 245
+  orig: 393, 245
+  offset: 0, 0
+  index: -1
+visor_BG
+  rotate: false
+  xy: 2, 241
+  size: 395, 270
+  orig: 395, 270
+  offset: 0, 0
+  index: -1

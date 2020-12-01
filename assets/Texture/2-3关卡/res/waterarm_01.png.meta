@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "fa94a4e8-77aa-4ad1-b54e-7f4435c2b209",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": true,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "waterarm_01": {
+      "ver": "1.0.4",
+      "uuid": "d28e9cd2-d9cd-44a8-ae8d-05b3c457a7ff",
+      "rawTextureUuid": "fa94a4e8-77aa-4ad1-b54e-7f4435c2b209",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -21,
+      "trimX": 2,
+      "trimY": 50,
+      "width": 503,
+      "height": 454,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

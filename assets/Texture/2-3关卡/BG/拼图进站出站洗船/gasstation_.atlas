@@ -1,0 +1,195 @@
+
+gasstation_.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gasstation
+  rotate: false
+  xy: 2, 428
+  size: 146, 576
+  orig: 146, 576
+  offset: 0, 0
+  index: -1
+P1
+  rotate: false
+  xy: 801, 983
+  size: 157, 21
+  orig: 157, 21
+  offset: 0, 0
+  index: -1
+P2
+  rotate: false
+  xy: 646, 959
+  size: 153, 45
+  orig: 153, 45
+  offset: 0, 0
+  index: -1
+P3
+  rotate: true
+  xy: 51, 144
+  size: 149, 80
+  orig: 149, 80
+  offset: 0, 0
+  index: -1
+P4
+  rotate: true
+  xy: 284, 465
+  size: 132, 107
+  orig: 132, 107
+  offset: 0, 0
+  index: -1
+Pump2
+  rotate: false
+  xy: 150, 433
+  size: 176, 30
+  orig: 176, 30
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 2, 2
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+blob_
+  rotate: false
+  xy: 526, 835
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+eight
+  rotate: true
+  xy: 328, 442
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+eightt
+  rotate: false
+  xy: 646, 920
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+five
+  rotate: true
+  xy: 801, 960
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+four
+  rotate: true
+  xy: 51, 86
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+highlight
+  rotate: false
+  xy: 526, 891
+  size: 118, 113
+  orig: 118, 113
+  offset: 0, 0
+  index: -1
+hose
+  rotate: false
+  xy: 150, 599
+  size: 250, 181
+  orig: 250, 181
+  offset: 0, 0
+  index: -1
+hose2
+  rotate: false
+  xy: 150, 782
+  size: 271, 222
+  orig: 271, 222
+  offset: 0, 0
+  index: -1
+nine
+  rotate: true
+  xy: 960, 983
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+one
+  rotate: false
+  xy: 423, 757
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+pimp
+  rotate: false
+  xy: 51, 109
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+pump1
+  rotate: false
+  xy: 2, 295
+  size: 142, 131
+  orig: 142, 131
+  offset: 0, 0
+  index: -1
+rainbow
+  rotate: false
+  xy: 2, 85
+  size: 47, 208
+  orig: 47, 208
+  offset: 0, 0
+  index: -1
+scoreboard
+  rotate: false
+  xy: 150, 465
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+seven
+  rotate: true
+  xy: 95, 121
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+six
+  rotate: false
+  xy: 526, 796
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+three
+  rotate: false
+  xy: 402, 743
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+tube_BG
+  rotate: false
+  xy: 423, 791
+  size: 52, 213
+  orig: 52, 213
+  offset: 0, 0
+  index: -1
+tube_fg
+  rotate: false
+  xy: 477, 796
+  size: 47, 208
+  orig: 47, 208
+  offset: 0, 0
+  index: -1
+two
+  rotate: false
+  xy: 582, 852
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1

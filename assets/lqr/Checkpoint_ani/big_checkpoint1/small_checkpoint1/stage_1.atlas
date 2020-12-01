@@ -1,0 +1,188 @@
+
+stage_1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Iceland
+  rotate: false
+  xy: 2, 298
+  size: 441, 212
+  orig: 441, 212
+  offset: 0, 0
+  index: -1
+Layer 281 copy
+  rotate: false
+  xy: 198, 165
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+cloud_1
+  rotate: false
+  xy: 2, 197
+  size: 114, 99
+  orig: 114, 99
+  offset: 0, 0
+  index: -1
+cloud_2
+  rotate: false
+  xy: 2, 96
+  size: 114, 99
+  orig: 114, 99
+  offset: 0, 0
+  index: -1
+grass1
+  rotate: false
+  xy: 315, 236
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+grass10
+  rotate: true
+  xy: 235, 204
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+grass11
+  rotate: true
+  xy: 420, 260
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+grass12
+  rotate: false
+  xy: 118, 259
+  size: 137, 37
+  orig: 137, 37
+  offset: 0, 0
+  index: -1
+grass13
+  rotate: false
+  xy: 357, 265
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+grass14
+  rotate: false
+  xy: 313, 213
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+grass2
+  rotate: false
+  xy: 445, 268
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+grass3
+  rotate: false
+  xy: 61, 12
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+grass4
+  rotate: false
+  xy: 118, 115
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+grass5
+  rotate: false
+  xy: 104, 65
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+grass6
+  rotate: true
+  xy: 445, 373
+  size: 137, 53
+  orig: 137, 53
+  offset: 0, 0
+  index: -1
+grass7
+  rotate: false
+  xy: 118, 200
+  size: 115, 57
+  orig: 115, 57
+  offset: 0, 0
+  index: -1
+grass8
+  rotate: false
+  xy: 362, 231
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+grass9
+  rotate: true
+  xy: 2, 2
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+rock1
+  rotate: true
+  xy: 445, 299
+  size: 72, 37
+  orig: 72, 37
+  offset: 0, 0
+  index: -1
+rock2
+  rotate: false
+  xy: 2, 53
+  size: 100, 41
+  orig: 100, 41
+  offset: 0, 0
+  index: -1
+rock3
+  rotate: false
+  xy: 260, 236
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+rock4
+  rotate: false
+  xy: 257, 265
+  size: 98, 31
+  orig: 98, 31
+  offset: 0, 0
+  index: -1
+rock5
+  rotate: false
+  xy: 118, 163
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+rock6
+  rotate: false
+  xy: 260, 209
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+rock7
+  rotate: false
+  xy: 118, 96
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+rock8
+  rotate: true
+  xy: 484, 340
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "927901a9-9b2e-4742-88d6-13aacbee2450",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 79,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_p_g29_cable_layer_04": {
+      "ver": "1.0.4",
+      "uuid": "03a7c44b-174e-44f1-87b2-9c8d04e8aa76",
+      "rawTextureUuid": "927901a9-9b2e-4742-88d6-13aacbee2450",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 79,
+      "rawWidth": 100,
+      "rawHeight": 79,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

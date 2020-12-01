@@ -1,0 +1,83 @@
+
+gasarm_01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gear
+  rotate: false
+  xy: 21, 89
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+hoose1 copy 2
+  rotate: true
+  xy: 217, 358
+  size: 65, 177
+  orig: 65, 177
+  offset: 0, 0
+  index: -1
+hose2
+  rotate: false
+  xy: 94, 202
+  size: 113, 134
+  orig: 113, 134
+  offset: 0, 0
+  index: -1
+pillar
+  rotate: true
+  xy: 217, 331
+  size: 25, 184
+  orig: 25, 184
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: false
+  xy: 21, 156
+  size: 71, 180
+  orig: 71, 180
+  offset: 0, 0
+  index: -1
+pillar3
+  rotate: true
+  xy: 425, 445
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+pillar4
+  rotate: true
+  xy: 217, 425
+  size: 59, 206
+  orig: 59, 206
+  offset: 0, 0
+  index: -1
+pillar5
+  rotate: true
+  xy: 209, 266
+  size: 63, 132
+  orig: 63, 132
+  offset: 0, 0
+  index: -1
+pistiol
+  rotate: false
+  xy: 2, 338
+  size: 213, 146
+  orig: 213, 146
+  offset: 0, 0
+  index: -1
+rainbow_straight
+  rotate: false
+  xy: 2, 47
+  size: 17, 289
+  orig: 17, 289
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 209, 216
+  size: 132, 48
+  orig: 132, 48
+  offset: 0, 0
+  index: -1

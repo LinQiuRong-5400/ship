@@ -1,0 +1,20 @@
+{
+  "package": "com.eggstudio.manhualian.vivominigame",
+  "name": "宝宝模拟造船",
+  "icon": "D:\\CC230Projects\\ship3\\build\\icon.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1052",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": true,
+  "privatePath": "",
+  "certificatePath": "",
+  "disabledMode": "disabled is-disabled",
+  "showNpmPath": false,
+  "packFirstScreenRes": false,
+  "separateEngineMode": true
+}

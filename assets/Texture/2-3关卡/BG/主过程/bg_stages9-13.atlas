@@ -1,0 +1,118 @@
+
+bg_stages9-13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Foam1
+  rotate: true
+  xy: 787, 755
+  size: 267, 77
+  orig: 267, 77
+  offset: 0, 0
+  index: -1
+Sailboat_1
+  rotate: true
+  xy: 948, 966
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+Sailboat_2
+  rotate: false
+  xy: 948, 874
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+Sailboat_3
+  rotate: true
+  xy: 611, 111
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+Sailboat_4
+  rotate: false
+  xy: 807, 651
+  size: 81, 102
+  orig: 81, 102
+  offset: 0, 0
+  index: -1
+cloud-1
+  rotate: false
+  xy: 2, 49
+  size: 329, 114
+  orig: 329, 114
+  offset: 0, 0
+  index: -1
+cloud-2
+  rotate: false
+  xy: 333, 2
+  size: 245, 94
+  orig: 245, 94
+  offset: 0, 0
+  index: -1
+cloud-3
+  rotate: true
+  xy: 866, 794
+  size: 228, 80
+  orig: 228, 80
+  offset: 0, 0
+  index: -1
+foam2
+  rotate: true
+  xy: 757, 190
+  size: 316, 20
+  orig: 316, 20
+  offset: 0, 0
+  index: -1
+foam3
+  rotate: true
+  xy: 705, 167
+  size: 339, 50
+  orig: 339, 50
+  offset: 0, 0
+  index: -1
+foam4
+  rotate: false
+  xy: 333, 98
+  size: 276, 65
+  orig: 276, 65
+  offset: 0, 0
+  index: -1
+foam5
+  rotate: true
+  xy: 787, 579
+  size: 174, 18
+  orig: 174, 18
+  offset: 0, 0
+  index: -1
+foam6
+  rotate: true
+  xy: 705, 508
+  size: 514, 80
+  orig: 514, 80
+  offset: 0, 0
+  index: -1
+gull
+  rotate: false
+  xy: 2, 33
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+sea3
+  rotate: false
+  xy: 2, 165
+  size: 701, 419
+  orig: 701, 419
+  offset: 0, 0
+  index: -1
+sky2
+  rotate: false
+  xy: 2, 586
+  size: 701, 436
+  orig: 701, 436
+  offset: 0, 0
+  index: -1

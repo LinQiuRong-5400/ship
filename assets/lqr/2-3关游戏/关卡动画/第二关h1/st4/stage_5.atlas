@@ -1,0 +1,111 @@
+
+stage_5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+door
+  rotate: true
+  xy: 451, 476
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+lighthouse
+  rotate: false
+  xy: 2, 39
+  size: 447, 467
+  orig: 447, 467
+  offset: 0, 0
+  index: -1
+radar_1
+  rotate: false
+  xy: 451, 374
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+radar_base_1
+  rotate: true
+  xy: 101, 11
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+radar_plate_1
+  rotate: false
+  xy: 451, 410
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+visor_1
+  rotate: false
+  xy: 52, 9
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+visor_shadow
+  rotate: false
+  xy: 2, 2
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+windowL
+  rotate: false
+  xy: 496, 438
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+windowL_cap
+  rotate: false
+  xy: 183, 17
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+windowR
+  rotate: false
+  xy: 496, 400
+  size: 14, 36
+  orig: 14, 36
+  offset: 0, 0
+  index: -1
+windowR_cap
+  rotate: true
+  xy: 451, 297
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+window_L_frame
+  rotate: false
+  xy: 451, 331
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+window_L_shadow
+  rotate: true
+  xy: 451, 264
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+window_R_frame
+  rotate: true
+  xy: 140, 17
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+window_R_shadow
+  rotate: true
+  xy: 451, 235
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

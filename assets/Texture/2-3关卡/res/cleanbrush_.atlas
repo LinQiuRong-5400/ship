@@ -1,0 +1,27 @@
+
+cleanbrush_.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+brush
+  rotate: false
+  xy: 223, 306
+  size: 219, 134
+  orig: 219, 134
+  offset: 0, 0
+  index: -1
+brush_rowl1
+  rotate: false
+  xy: 2, 291
+  size: 219, 149
+  orig: 219, 149
+  offset: 0, 0
+  index: -1
+brush_rowl2
+  rotate: false
+  xy: 2, 141
+  size: 219, 148
+  orig: 219, 148
+  offset: 0, 0
+  index: -1

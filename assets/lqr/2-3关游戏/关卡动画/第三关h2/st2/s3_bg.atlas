@@ -1,0 +1,76 @@
+
+s3_bg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C_block
+  rotate: false
+  xy: 712, 335
+  size: 280, 114
+  orig: 280, 114
+  offset: 0, 0
+  index: -1
+C_line
+  rotate: false
+  xy: 712, 307
+  size: 280, 26
+  orig: 280, 26
+  offset: 0, 0
+  index: -1
+L_block
+  rotate: true
+  xy: 505, 137
+  size: 167, 177
+  orig: 167, 177
+  offset: 0, 0
+  index: -1
+L_line
+  rotate: true
+  xy: 374, 97
+  size: 146, 58
+  orig: 146, 58
+  offset: 0, 0
+  index: -1
+R_block
+  rotate: false
+  xy: 684, 130
+  size: 173, 174
+  orig: 173, 174
+  offset: 0, 0
+  index: -1
+R_line
+  rotate: false
+  xy: 2, 2
+  size: 152, 70
+  orig: 152, 70
+  offset: 0, 0
+  index: -1
+coralls
+  rotate: false
+  xy: 2, 82
+  size: 370, 161
+  orig: 370, 161
+  offset: 0, 0
+  index: -1
+maine_waterlines
+  rotate: false
+  xy: 2, 74
+  size: 496, 6
+  orig: 496, 6
+  offset: 0, 0
+  index: -1
+oblomki
+  rotate: false
+  xy: 2, 306
+  size: 708, 143
+  orig: 708, 143
+  offset: 0, 0
+  index: -1
+waterfront2
+  rotate: false
+  xy: 2, 245
+  size: 501, 59
+  orig: 501, 59
+  offset: 0, 0
+  index: -1

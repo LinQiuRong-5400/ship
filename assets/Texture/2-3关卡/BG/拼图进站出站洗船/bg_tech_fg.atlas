@@ -1,0 +1,20 @@
+
+bg_tech_fg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dock_FG1
+  rotate: false
+  xy: 2, 731
+  size: 828, 97
+  orig: 828, 97
+  offset: 0, 0
+  index: -1
+waterline_fg
+  rotate: false
+  xy: 2, 612
+  size: 800, 117
+  orig: 800, 117
+  offset: 0, 0
+  index: -1

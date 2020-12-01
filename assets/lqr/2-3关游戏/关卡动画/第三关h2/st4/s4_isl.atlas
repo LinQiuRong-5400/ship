@@ -1,0 +1,404 @@
+
+s4_isl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back_stown
+  rotate: false
+  xy: 716, 490
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+FR_st_01
+  rotate: true
+  xy: 985, 8
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+FR_st_02
+  rotate: false
+  xy: 721, 740
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+FR_st_03
+  rotate: true
+  xy: 776, 4
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+FR_st_04
+  rotate: true
+  xy: 985, 49
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+FR_st_05
+  rotate: false
+  xy: 721, 784
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+border
+  rotate: true
+  xy: 861, 10
+  size: 302, 89
+  orig: 302, 89
+  offset: 0, 0
+  index: -1
+border1
+  rotate: true
+  xy: 1006, 978
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+border2
+  rotate: true
+  xy: 757, 710
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+border3
+  rotate: true
+  xy: 751, 27
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+border4
+  rotate: true
+  xy: 749, 390
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+border5
+  rotate: false
+  xy: 574, 2
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+border6
+  rotate: false
+  xy: 604, 2
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+front_stones
+  rotate: true
+  xy: 611, 349
+  size: 290, 103
+  orig: 290, 103
+  offset: 0, 0
+  index: -1
+gal_02
+  rotate: true
+  xy: 1006, 857
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+gal_03
+  rotate: false
+  xy: 751, 5
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+gal_07
+  rotate: true
+  xy: 1006, 955
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+gal_08
+  rotate: false
+  xy: 656, 3
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+gal_11
+  rotate: true
+  xy: 1006, 840
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+gal_13
+  rotate: false
+  xy: 834, 12
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+ilandbase
+  rotate: false
+  xy: 2, 107
+  size: 774, 205
+  orig: 774, 205
+  offset: 0, 0
+  index: -1
+k1
+  rotate: true
+  xy: 778, 153
+  size: 94, 72
+  orig: 94, 72
+  offset: 0, 0
+  index: -1
+k1op
+  rotate: true
+  xy: 551, 332
+  size: 105, 24
+  orig: 105, 24
+  offset: 0, 0
+  index: -1
+k1op2
+  rotate: true
+  xy: 716, 326
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1
+k2
+  rotate: true
+  xy: 778, 57
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1
+k2op2
+  rotate: true
+  xy: 952, 6
+  size: 92, 31
+  orig: 92, 31
+  offset: 0, 0
+  index: -1
+k3
+  rotate: true
+  xy: 678, 11
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1
+k3op
+  rotate: false
+  xy: 610, 323
+  size: 104, 24
+  orig: 104, 24
+  offset: 0, 0
+  index: -1
+k3op2
+  rotate: true
+  xy: 577, 346
+  size: 91, 31
+  orig: 91, 31
+  offset: 0, 0
+  index: -1
+oblomki
+  rotate: true
+  xy: 861, 314
+  size: 708, 143
+  orig: 708, 143
+  offset: 0, 0
+  index: -1
+sand1
+  rotate: false
+  xy: 2, 4
+  size: 570, 101
+  orig: 570, 101
+  offset: 0, 0
+  index: -1
+sand_base
+  rotate: false
+  xy: 2, 641
+  size: 717, 189
+  orig: 717, 189
+  offset: 0, 0
+  index: -1
+st1
+  rotate: true
+  xy: 751, 72
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+st2
+  rotate: true
+  xy: 716, 565
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+steirs_right
+  rotate: true
+  xy: 952, 100
+  size: 212, 70
+  orig: 212, 70
+  offset: 0, 0
+  index: -1
+stouns_lft
+  rotate: true
+  xy: 716, 419
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+stouns_right
+  rotate: false
+  xy: 574, 20
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+volnoloms
+  rotate: false
+  xy: 2, 439
+  size: 607, 200
+  orig: 607, 200
+  offset: 0, 0
+  index: -1
+waterfront
+  rotate: false
+  xy: 2, 832
+  size: 857, 190
+  orig: 857, 190
+  offset: 0, 0
+  index: -1
+waterlines
+  rotate: true
+  xy: 778, 249
+  size: 581, 81
+  orig: 581, 81
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: true
+  xy: 721, 600
+  size: 138, 34
+  orig: 138, 34
+  offset: 0, 0
+  index: -1
+wave2
+  rotate: true
+  xy: 634, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wave3
+  rotate: true
+  xy: 1006, 909
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+wave4
+  rotate: true
+  xy: 834, 23
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+wave5
+  rotate: true
+  xy: 1006, 878
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+wave7
+  rotate: true
+  xy: 757, 558
+  size: 150, 18
+  orig: 150, 18
+  offset: 0, 0
+  index: -1
+waves
+  rotate: false
+  xy: 2, 326
+  size: 547, 111
+  orig: 547, 111
+  offset: 0, 0
+  index: -1
+
+s4_isl2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+galka
+  rotate: false
+  xy: 131, 268
+  size: 282, 59
+  orig: 282, 59
+  offset: 0, 0
+  index: -1
+k2op
+  rotate: false
+  xy: 564, 733
+  size: 105, 24
+  orig: 105, 24
+  offset: 0, 0
+  index: -1
+lestnica
+  rotate: false
+  xy: 802, 952
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+priboi_waterline
+  rotate: false
+  xy: 131, 660
+  size: 431, 97
+  orig: 431, 97
+  offset: 0, 0
+  index: -1
+puil
+  rotate: false
+  xy: 131, 329
+  size: 290, 189
+  orig: 290, 189
+  offset: 0, 0
+  index: -1
+send_base_top
+  rotate: false
+  xy: 131, 520
+  size: 354, 138
+  orig: 354, 138
+  offset: 0, 0
+  index: -1
+water2
+  rotate: true
+  xy: 2, 2
+  size: 843, 127
+  orig: 843, 127
+  offset: 0, 0
+  index: -1
+waterfront_on_sand
+  rotate: false
+  xy: 2, 847
+  size: 798, 175
+  orig: 798, 175
+  offset: 0, 0
+  index: -1
+waterline_on_stone
+  rotate: false
+  xy: 131, 759
+  size: 574, 86
+  orig: 574, 86
+  offset: 0, 0
+  index: -1

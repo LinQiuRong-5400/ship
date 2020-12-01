@@ -1,0 +1,272 @@
+
+t_3_2_.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 253
+  size: 482, 149
+  orig: 482, 149
+  offset: 0, 0
+  index: -1
+Cabin
+  rotate: true
+  xy: 2, 73
+  size: 178, 395
+  orig: 178, 395
+  offset: 0, 0
+  index: -1
+Krug
+  rotate: false
+  xy: 694, 343
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+Pier_001
+  rotate: false
+  xy: 608, 450
+  size: 179, 58
+  orig: 179, 58
+  offset: 0, 0
+  index: -1
+TXT
+  rotate: false
+  xy: 920, 485
+  size: 81, 23
+  orig: 81, 23
+  offset: 0, 0
+  index: -1
+ancor
+  rotate: true
+  xy: 552, 189
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+ancorshadow
+  rotate: true
+  xy: 608, 190
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+blink_green
+  rotate: false
+  xy: 399, 170
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+blink_red
+  rotate: false
+  xy: 399, 87
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+brizgi
+  rotate: false
+  xy: 789, 441
+  size: 94, 46
+  orig: 94, 47
+  offset: 0, 1
+  index: -1
+brizgi2
+  rotate: true
+  xy: 1003, 478
+  size: 30, 19
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+doorclosed
+  rotate: false
+  xy: 481, 179
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+gaz
+  rotate: true
+  xy: 572, 327
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+krugshadow
+  rotate: false
+  xy: 630, 343
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+perila
+  rotate: false
+  xy: 486, 258
+  size: 85, 40
+  orig: 85, 40
+  offset: 0, 0
+  index: -1
+pier/Pillar
+  rotate: true
+  xy: 608, 432
+  size: 16, 133
+  orig: 16, 133
+  offset: 0, 0
+  index: -1
+pier/hor_ctick_2
+  rotate: false
+  xy: 789, 489
+  size: 129, 19
+  orig: 129, 20
+  offset: 0, 1
+  index: -1
+pier/hor_stick
+  rotate: false
+  xy: 608, 411
+  size: 126, 19
+  orig: 126, 20
+  offset: 0, 1
+  index: -1
+pier/pill1
+  rotate: true
+  xy: 572, 314
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+pier/plank1
+  rotate: false
+  xy: 552, 159
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+pier/plank2
+  rotate: true
+  xy: 885, 451
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+pier/plank3
+  rotate: true
+  xy: 521, 111
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+pier/plank4
+  rotate: false
+  xy: 693, 198
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+pier/plank5
+  rotate: false
+  xy: 724, 199
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+pier/plank6
+  rotate: false
+  xy: 663, 195
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+reflect1
+  rotate: false
+  xy: 486, 228
+  size: 509, 28
+  orig: 509, 28
+  offset: 0, 0
+  index: -1
+reflect2
+  rotate: false
+  xy: 630, 324
+  size: 103, 17
+  orig: 103, 17
+  offset: 0, 0
+  index: -1
+reflect3
+  rotate: false
+  xy: 399, 73
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+reflect4
+  rotate: false
+  xy: 2, 2
+  size: 450, 8
+  orig: 450, 8
+  offset: 0, 0
+  index: -1
+reflect5
+  rotate: false
+  xy: 743, 431
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+screwblade2
+  rotate: false
+  xy: 735, 327
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+screwstick
+  rotate: false
+  xy: 608, 404
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+scrweblade1
+  rotate: true
+  xy: 439, 76
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+sh
+  rotate: false
+  xy: 2, 12
+  size: 477, 59
+  orig: 477, 59
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 486, 300
+  size: 84, 102
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 481, 109
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 404
+  size: 604, 104
+  orig: 604, 104
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 521, 143
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1

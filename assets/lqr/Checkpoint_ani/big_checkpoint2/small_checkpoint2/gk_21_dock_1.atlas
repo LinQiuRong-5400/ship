@@ -1,0 +1,188 @@
+
+gk_21_dock_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ancor
+  rotate: true
+  xy: 576, 647
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 2, 731
+  size: 757, 183
+  orig: 757, 183
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 266
+  size: 115, 141
+  orig: 115, 141
+  offset: 0, 0
+  index: -1
+TXT_GK_21
+  rotate: false
+  xy: 301, 604
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+antenne
+  rotate: false
+  xy: 923, 922
+  size: 41, 98
+  orig: 41, 98
+  offset: 0, 0
+  index: -1
+cabin
+  rotate: false
+  xy: 2, 409
+  size: 215, 220
+  orig: 215, 220
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 2, 160
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+chipper1
+  rotate: false
+  xy: 2, 195
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+chipper2
+  rotate: false
+  xy: 2, 195
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: false
+  xy: 219, 517
+  size: 71, 51
+  orig: 71, 51
+  offset: 0, 0
+  index: -1
+deepreflection
+  rotate: false
+  xy: 2, 631
+  size: 477, 59
+  orig: 477, 59
+  offset: 0, 0
+  index: -1
+fonar
+  rotate: true
+  xy: 966, 975
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+gashole
+  rotate: false
+  xy: 64, 234
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+gashole2
+  rotate: false
+  xy: 219, 570
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+opened door
+  rotate: false
+  xy: 119, 356
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+ref1
+  rotate: false
+  xy: 481, 642
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+ref2
+  rotate: false
+  xy: 966, 922
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+ref3
+  rotate: false
+  xy: 119, 337
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+ref4
+  rotate: true
+  xy: 193, 365
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+ref5
+  rotate: false
+  xy: 761, 733
+  size: 100, 17
+  orig: 100, 17
+  offset: 0, 0
+  index: -1
+ref6
+  rotate: false
+  xy: 761, 733
+  size: 100, 17
+  orig: 100, 17
+  offset: 0, 0
+  index: -1
+stairs
+  rotate: false
+  xy: 761, 752
+  size: 261, 162
+  orig: 261, 162
+  offset: 0, 0
+  index: -1
+tube
+  rotate: true
+  xy: 966, 936
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 916
+  size: 919, 104
+  orig: 919, 104
+  offset: 0, 0
+  index: -1
+waterline1
+  rotate: false
+  xy: 2, 692
+  size: 751, 8
+  orig: 751, 8
+  offset: 0, 0
+  index: -1
+waterline2
+  rotate: false
+  xy: 2, 702
+  size: 854, 27
+  orig: 854, 27
+  offset: 0, 0
+  index: -1

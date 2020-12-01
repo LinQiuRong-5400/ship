@@ -1,0 +1,503 @@
+
+stage_10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Island
+  rotate: false
+  xy: 2, 823
+  size: 609, 199
+  orig: 609, 199
+  offset: 0, 0
+  index: -1
+L block
+  rotate: false
+  xy: 706, 726
+  size: 157, 95
+  orig: 157, 95
+  offset: 0, 0
+  index: -1
+Powerbox
+  rotate: false
+  xy: 82, 132
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+R block
+  rotate: false
+  xy: 331, 487
+  size: 163, 95
+  orig: 163, 96
+  offset: 0, 0
+  index: -1
+cable/Bid_ref1
+  rotate: false
+  xy: 627, 491
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+cable/Bidon_water
+  rotate: true
+  xy: 82, 72
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+cable/SH_deep1
+  rotate: true
+  xy: 708, 653
+  size: 32, 73
+  orig: 32, 75
+  offset: 0, 1
+  index: -1
+cable/SH_deep2
+  rotate: true
+  xy: 64, 188
+  size: 44, 96
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+cable/SH_land
+  rotate: false
+  xy: 914, 860
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+cable/all_sh_fall
+  rotate: true
+  xy: 2, 179
+  size: 642, 60
+  orig: 642, 60
+  offset: 0, 0
+  index: -1
+cable/bid_ref2
+  rotate: false
+  xy: 462, 467
+  size: 29, 18
+  orig: 29, 19
+  offset: 0, 1
+  index: -1
+cable/bid_ref3
+  rotate: false
+  xy: 279, 317
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+cable/bidon
+  rotate: false
+  xy: 499, 575
+  size: 152, 77
+  orig: 152, 77
+  offset: 0, 0
+  index: -1
+cable/bui_boddy
+  rotate: false
+  xy: 302, 430
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+cable/kabel_roll
+  rotate: true
+  xy: 2, 3
+  size: 37, 69
+  orig: 37, 70
+  offset: 0, 1
+  index: -1
+cable/sh1
+  rotate: true
+  xy: 988, 911
+  size: 111, 16
+  orig: 111, 17
+  offset: 0, 0
+  index: -1
+cable/sh_5
+  rotate: true
+  xy: 866, 832
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+cable/sh_6
+  rotate: false
+  xy: 180, 408
+  size: 120, 62
+  orig: 120, 62
+  offset: 0, 0
+  index: -1
+cable/water_on_bui
+  rotate: false
+  xy: 331, 438
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+first_flor
+  rotate: false
+  xy: 64, 697
+  size: 270, 124
+  orig: 270, 124
+  offset: 0, 0
+  index: -1
+house_shadow
+  rotate: false
+  xy: 499, 654
+  size: 207, 31
+  orig: 207, 31
+  offset: 0, 0
+  index: -1
+kannak
+  rotate: false
+  xy: 73, 10
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+kust-piramida
+  rotate: true
+  xy: 706, 687
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+kust-piramida1
+  rotate: false
+  xy: 169, 282
+  size: 44, 124
+  orig: 44, 125
+  offset: 0, 0
+  index: -1
+kust-piramida2
+  rotate: false
+  xy: 653, 574
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+kust1
+  rotate: true
+  xy: 236, 317
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+kust2
+  rotate: true
+  xy: 917, 914
+  size: 108, 69
+  orig: 108, 69
+  offset: 0, 0
+  index: -1
+kust3
+  rotate: true
+  xy: 645, 503
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+kust4
+  rotate: true
+  xy: 169, 233
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+kust5
+  rotate: false
+  xy: 783, 653
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+kust6
+  rotate: true
+  xy: 130, 133
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+kust7
+  rotate: false
+  xy: 818, 695
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+palm1
+  rotate: false
+  xy: 522, 687
+  size: 182, 134
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+palm2
+  rotate: false
+  xy: 336, 687
+  size: 184, 134
+  orig: 184, 142
+  offset: 0, 0
+  index: -1
+pier/hor_ctick_2
+  rotate: false
+  xy: 496, 482
+  size: 129, 19
+  orig: 129, 20
+  offset: 0, 1
+  index: -1
+pier/hor_stick
+  rotate: true
+  xy: 215, 280
+  size: 126, 19
+  orig: 126, 20
+  offset: 0, 1
+  index: -1
+pier/kakan
+  rotate: false
+  xy: 107, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+pier/kan
+  rotate: false
+  xy: 1006, 915
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+pier/kan_01
+  rotate: false
+  xy: 275, 289
+  size: 21, 26
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+pier/kan_02
+  rotate: true
+  xy: 107, 16
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+pier/kan_03
+  rotate: true
+  xy: 119, 91
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+pier/kan_04
+  rotate: true
+  xy: 211, 239
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+pier/mostpilar_01
+  rotate: false
+  xy: 1006, 987
+  size: 16, 35
+  orig: 16, 37
+  offset: 0, 1
+  index: -1
+pier/pill1
+  rotate: true
+  xy: 331, 425
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+pier/pill2
+  rotate: true
+  xy: 162, 190
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+pier/pill3
+  rotate: true
+  xy: 302, 417
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+pier/pill4
+  rotate: false
+  xy: 1006, 958
+  size: 16, 27
+  orig: 16, 28
+  offset: 0, 1
+  index: -1
+pier/pill5
+  rotate: false
+  xy: 849, 666
+  size: 21, 27
+  orig: 21, 28
+  offset: 0, 1
+  index: -1
+pier/pill6
+  rotate: false
+  xy: 1006, 929
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+pier/plank1
+  rotate: false
+  xy: 82, 42
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+pier/plank2
+  rotate: false
+  xy: 376, 439
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+pier/plank3
+  rotate: false
+  xy: 414, 439
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+pier/plank4
+  rotate: false
+  xy: 162, 203
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+pier/plank5
+  rotate: true
+  xy: 132, 103
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+pier/plank6
+  rotate: false
+  xy: 819, 665
+  size: 28, 28
+  orig: 28, 31
+  offset: 0, 3
+  index: -1
+pier/refl1
+  rotate: false
+  xy: 671, 493
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+pier/refl2
+  rotate: true
+  xy: 224, 245
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+pier/refl3
+  rotate: false
+  xy: 302, 408
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+pier/water_01
+  rotate: true
+  xy: 236, 285
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+powerpillar1
+  rotate: false
+  xy: 279, 337
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+powerpillarhanger
+  rotate: false
+  xy: 193, 214
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+second_flor
+  rotate: true
+  xy: 180, 472
+  size: 223, 149
+  orig: 223, 149
+  offset: 0, 0
+  index: -1
+shadow1
+  rotate: false
+  xy: 914, 837
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: false
+  xy: 331, 469
+  size: 129, 16
+  orig: 129, 16
+  offset: 0, 0
+  index: -1
+stvol1
+  rotate: false
+  xy: 2, 42
+  size: 78, 135
+  orig: 78, 135
+  offset: 0, 0
+  index: -1
+stvol2
+  rotate: true
+  xy: 496, 503
+  size: 70, 147
+  orig: 70, 147
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: true
+  xy: 64, 234
+  size: 179, 103
+  orig: 179, 104
+  offset: 0, 1
+  index: -1
+wave2
+  rotate: false
+  xy: 331, 584
+  size: 166, 101
+  orig: 166, 103
+  offset: 0, 1
+  index: -1
+wave3
+  rotate: false
+  xy: 613, 920
+  size: 302, 102
+  orig: 302, 103
+  offset: 0, 1
+  index: -1
+www
+  rotate: false
+  xy: 613, 823
+  size: 251, 95
+  orig: 251, 95
+  offset: 0, 0
+  index: -1
+С block
+  rotate: true
+  xy: 64, 415
+  size: 280, 114
+  orig: 280, 114
+  offset: 0, 0
+  index: -1

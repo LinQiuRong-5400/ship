@@ -1,0 +1,195 @@
+
+stage_7.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Island
+  rotate: false
+  xy: 2, 294
+  size: 609, 199
+  orig: 609, 199
+  offset: 0, 0
+  index: -1
+L block
+  rotate: true
+  xy: 487, 38
+  size: 157, 95
+  orig: 157, 95
+  offset: 0, 0
+  index: -1
+R block
+  rotate: false
+  xy: 584, 18
+  size: 163, 95
+  orig: 163, 96
+  offset: 0, 0
+  index: -1
+first_flor
+  rotate: false
+  xy: 613, 369
+  size: 270, 124
+  orig: 270, 124
+  offset: 0, 0
+  index: -1
+house_shadow
+  rotate: false
+  xy: 2, 41
+  size: 207, 31
+  orig: 207, 31
+  offset: 0, 0
+  index: -1
+kust-piramida
+  rotate: true
+  xy: 2, 2
+  size: 37, 110
+  orig: 37, 110
+  offset: 0, 0
+  index: -1
+kust-piramida1
+  rotate: false
+  xy: 885, 369
+  size: 44, 124
+  orig: 44, 125
+  offset: 0, 0
+  index: -1
+kust-piramida2
+  rotate: true
+  xy: 749, 35
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+kust1
+  rotate: true
+  xy: 981, 6
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+kust2
+  rotate: true
+  xy: 931, 385
+  size: 108, 69
+  orig: 108, 69
+  offset: 0, 0
+  index: -1
+kust3
+  rotate: true
+  xy: 559, 223
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+kust4
+  rotate: false
+  xy: 357, 50
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+kust5
+  rotate: false
+  xy: 406, 58
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+kust6
+  rotate: false
+  xy: 211, 43
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+kust7
+  rotate: false
+  xy: 302, 61
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+palm1
+  rotate: false
+  xy: 838, 97
+  size: 182, 134
+  orig: 182, 138
+  offset: 0, 0
+  index: -1
+palm2
+  rotate: false
+  xy: 838, 233
+  size: 184, 134
+  orig: 184, 142
+  offset: 0, 0
+  index: -1
+second_flor
+  rotate: false
+  xy: 613, 218
+  size: 223, 149
+  orig: 223, 149
+  offset: 0, 0
+  index: -1
+shadow1
+  rotate: false
+  xy: 114, 18
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+shadow2
+  rotate: true
+  xy: 284, 59
+  size: 129, 16
+  orig: 129, 16
+  offset: 0, 0
+  index: -1
+stvol1
+  rotate: false
+  xy: 752, 81
+  size: 78, 135
+  orig: 78, 135
+  offset: 0, 0
+  index: -1
+stvol2
+  rotate: true
+  xy: 832, 25
+  size: 70, 147
+  orig: 70, 147
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: false
+  xy: 306, 92
+  size: 179, 103
+  orig: 179, 104
+  offset: 0, 1
+  index: -1
+wave2
+  rotate: false
+  xy: 584, 115
+  size: 166, 101
+  orig: 166, 103
+  offset: 0, 1
+  index: -1
+wave3
+  rotate: false
+  xy: 2, 190
+  size: 302, 102
+  orig: 302, 103
+  offset: 0, 1
+  index: -1
+www
+  rotate: false
+  xy: 306, 197
+  size: 251, 95
+  orig: 251, 95
+  offset: 0, 0
+  index: -1
+С block
+  rotate: false
+  xy: 2, 74
+  size: 280, 114
+  orig: 280, 114
+  offset: 0, 0
+  index: -1

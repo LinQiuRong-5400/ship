@@ -1,0 +1,279 @@
+
+t10_sep_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Baise
+  rotate: false
+  xy: 2, 345
+  size: 582, 183
+  orig: 582, 183
+  offset: 0, 0
+  index: -1
+CABIN
+  rotate: false
+  xy: 581, 728
+  size: 183, 294
+  orig: 183, 294
+  offset: 0, 0
+  index: -1
+F_handle
+  rotate: false
+  xy: 848, 671
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+Fara
+  rotate: false
+  xy: 637, 385
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+antenne
+  rotate: true
+  xy: 581, 543
+  size: 36, 107
+  orig: 36, 107
+  offset: 0, 0
+  index: -1
+blink_green
+  rotate: false
+  xy: 766, 729
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+blink_red
+  rotate: false
+  xy: 879, 836
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+brizgi
+  rotate: true
+  xy: 965, 926
+  size: 96, 47
+  orig: 96, 47
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 690, 546
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+dirt
+  rotate: false
+  xy: 2, 530
+  size: 577, 492
+  orig: 577, 492
+  offset: 0, 0
+  index: -1
+doorclosed
+  rotate: true
+  xy: 848, 741
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+dooropened
+  rotate: true
+  xy: 586, 362
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+farabase
+  rotate: true
+  xy: 619, 435
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+gashole
+  rotate: false
+  xy: 772, 619
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+gasholebase
+  rotate: true
+  xy: 772, 651
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+gazon1
+  rotate: false
+  xy: 766, 918
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+gazon2
+  rotate: false
+  xy: 766, 812
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+hook
+  rotate: true
+  xy: 457, 58
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+lifebuoy
+  rotate: false
+  xy: 619, 468
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+pil11
+  rotate: true
+  xy: 309, 2
+  size: 53, 119
+  orig: 53, 119
+  offset: 0, 0
+  index: -1
+pillar1
+  rotate: true
+  xy: 2, 7
+  size: 77, 305
+  orig: 77, 305
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: false
+  xy: 309, 57
+  size: 146, 27
+  orig: 146, 27
+  offset: 0, 0
+  index: -1
+pillar3
+  rotate: false
+  xy: 309, 57
+  size: 146, 27
+  orig: 146, 27
+  offset: 0, 0
+  index: -1
+pirs
+  rotate: false
+  xy: 430, 2
+  size: 116, 53
+  orig: 116, 53
+  offset: 0, 0
+  index: -1
+ref1
+  rotate: false
+  xy: 608, 100
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+refl2
+  rotate: true
+  xy: 747, 624
+  size: 102, 23
+  orig: 102, 23
+  offset: 0, 0
+  index: -1
+reflect_
+  rotate: false
+  xy: 2, 96
+  size: 604, 21
+  orig: 604, 21
+  offset: 0, 0
+  index: -1
+screwblade1
+  rotate: false
+  xy: 1014, 985
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+screwblade2
+  rotate: false
+  xy: 1014, 1004
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+screwstick
+  rotate: false
+  xy: 830, 672
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 225
+  size: 590, 118
+  orig: 590, 118
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 879, 919
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+tross1
+  rotate: false
+  xy: 581, 581
+  size: 164, 145
+  orig: 164, 145
+  offset: 0, 0
+  index: -1
+tross2
+  rotate: false
+  xy: 830, 680
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 586, 434
+  size: 31, 107
+  orig: 31, 107
+  offset: 0, 0
+  index: -1
+waterline
+  rotate: false
+  xy: 2, 86
+  size: 535, 8
+  orig: 535, 8
+  offset: 0, 0
+  index: -1
+watersurface
+  rotate: false
+  xy: 2, 119
+  size: 665, 104
+  orig: 665, 104
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 848, 703
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+wheel12121
+  rotate: true
+  xy: 637, 354
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1

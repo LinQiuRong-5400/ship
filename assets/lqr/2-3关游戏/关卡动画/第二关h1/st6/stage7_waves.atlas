@@ -1,0 +1,76 @@
+
+stage7_waves.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boat
+  rotate: false
+  xy: 262, 19
+  size: 246, 92
+  orig: 246, 92
+  offset: 0, 0
+  index: -1
+boat_motor
+  rotate: true
+  xy: 795, 49
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+boat_rope
+  rotate: false
+  xy: 869, 65
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+boat_water_surface
+  rotate: false
+  xy: 510, 67
+  size: 283, 44
+  orig: 283, 44
+  offset: 0, 0
+  index: -1
+boat_waves
+  rotate: false
+  xy: 510, 40
+  size: 282, 25
+  orig: 282, 25
+  offset: 0, 0
+  index: -1
+pirs
+  rotate: false
+  xy: 2, 2
+  size: 258, 109
+  orig: 258, 109
+  offset: 0, 0
+  index: -1
+spile_waves_L_1
+  rotate: false
+  xy: 510, 14
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+spile_waves_L_2
+  rotate: false
+  xy: 916, 89
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+spile_waves_R_1
+  rotate: false
+  xy: 569, 15
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+spile_waves_R_2
+  rotate: false
+  xy: 916, 65
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1

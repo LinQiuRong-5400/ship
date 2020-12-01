@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9cb15c5f-92d1-4ad7-b0b6-1abdf34384ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 577,
+  "height": 185,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_pc_g15_sheerleg_barge_6_0": {
+      "ver": "1.0.4",
+      "uuid": "b11e23bf-9b4b-47e4-b871-9e0a76d57226",
+      "rawTextureUuid": "9cb15c5f-92d1-4ad7-b0b6-1abdf34384ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 577,
+      "height": 185,
+      "rawWidth": 577,
+      "rawHeight": 185,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

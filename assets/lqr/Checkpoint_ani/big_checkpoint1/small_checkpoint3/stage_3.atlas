@@ -1,0 +1,104 @@
+
+stage_3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2flore1
+  rotate: false
+  xy: 33, 103
+  size: 90, 75
+  orig: 90, 75
+  offset: 0, 0
+  index: -1
+2flore2
+  rotate: true
+  xy: 445, 419
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+3flor1
+  rotate: false
+  xy: 33, 26
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+3flor2
+  rotate: false
+  xy: 323, 220
+  size: 83, 75
+  orig: 83, 75
+  offset: 0, 0
+  index: -1
+Island
+  rotate: false
+  xy: 2, 297
+  size: 441, 212
+  orig: 441, 212
+  offset: 0, 0
+  index: -1
+Lighouse_granit_FG
+  rotate: true
+  xy: 445, 309
+  size: 108, 40
+  orig: 108, 40
+  offset: 0, 0
+  index: -1
+Lighthouse_beton1_BG
+  rotate: true
+  xy: 408, 205
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+Lighthouse_beton1_FG
+  rotate: false
+  xy: 125, 113
+  size: 94, 43
+  orig: 94, 43
+  offset: 0, 0
+  index: -1
+Lighthouse_granit_BG
+  rotate: false
+  xy: 136, 158
+  size: 102, 31
+  orig: 102, 31
+  offset: 0, 0
+  index: -1
+cloud_3
+  rotate: false
+  xy: 2, 180
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 136, 191
+  size: 104, 42
+  orig: 104, 42
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 26
+  size: 152, 29
+  orig: 152, 29
+  offset: 0, 0
+  index: -1
+shadow_window
+  rotate: true
+  xy: 2, 2
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+stairs
+  rotate: true
+  xy: 136, 235
+  size: 60, 185
+  orig: 60, 185
+  offset: 0, 0
+  index: -1

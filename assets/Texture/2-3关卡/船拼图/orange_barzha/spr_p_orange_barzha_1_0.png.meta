@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a99884c4-5a1e-4e9e-a322-7e6c84398d29",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 48,
+  "height": 90,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_p_orange_barzha_1_0": {
+      "ver": "1.0.4",
+      "uuid": "610a91b0-4f95-4f6d-a911-54b9f75343a5",
+      "rawTextureUuid": "a99884c4-5a1e-4e9e-a322-7e6c84398d29",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 48,
+      "height": 90,
+      "rawWidth": 48,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

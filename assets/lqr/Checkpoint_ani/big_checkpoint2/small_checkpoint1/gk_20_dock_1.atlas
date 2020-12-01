@@ -1,0 +1,188 @@
+
+gk_20_dock_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 2, 757
+  size: 513, 142
+  orig: 513, 142
+  offset: 0, 0
+  index: -1
+cabin
+  rotate: false
+  xy: 31, 382
+  size: 202, 312
+  orig: 202, 312
+  offset: 0, 0
+  index: -1
+cap1
+  rotate: true
+  xy: 481, 702
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: false
+  xy: 134, 164
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+deepreflection
+  rotate: false
+  xy: 2, 696
+  size: 477, 59
+  orig: 477, 59
+  offset: 0, 0
+  index: -1
+gashole1
+  rotate: false
+  xy: 517, 774
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+gashole2
+  rotate: true
+  xy: 948, 926
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+hanger
+  rotate: true
+  xy: 836, 917
+  size: 85, 110
+  orig: 85, 110
+  offset: 0, 0
+  index: -1
+kan2
+  rotate: false
+  xy: 31, 263
+  size: 191, 46
+  orig: 191, 46
+  offset: 0, 0
+  index: -1
+ladle
+  rotate: true
+  xy: 235, 420
+  size: 274, 190
+  orig: 274, 191
+  offset: 0, 0
+  index: -1
+lifeboy
+  rotate: true
+  xy: 26, 126
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+openetdoor
+  rotate: false
+  xy: 134, 213
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+ref1
+  rotate: true
+  xy: 517, 806
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+ref2
+  rotate: true
+  xy: 567, 862
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+ref3
+  rotate: true
+  xy: 224, 267
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+ref4
+  rotate: false
+  xy: 836, 898
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+ref5
+  rotate: true
+  xy: 437, 594
+  size: 100, 17
+  orig: 100, 17
+  offset: 0, 0
+  index: -1
+ref6
+  rotate: true
+  xy: 437, 594
+  size: 100, 17
+  orig: 100, 17
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 31, 177
+  size: 84, 101
+  orig: 84, 103
+  offset: 0, 1
+  index: -1
+stairs
+  rotate: false
+  xy: 589, 895
+  size: 245, 107
+  orig: 245, 108
+  offset: 0, 0
+  index: -1
+strip
+  rotate: false
+  xy: 31, 311
+  size: 222, 69
+  orig: 222, 69
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 2, 125
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+txt_GK-20
+  rotate: false
+  xy: 235, 393
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 901
+  size: 585, 101
+  orig: 585, 101
+  offset: 0, 0
+  index: -1
+waterline1
+  rotate: true
+  xy: 427, 258
+  size: 436, 8
+  orig: 436, 8
+  offset: 0, 0
+  index: -1
+waterline2
+  rotate: true
+  xy: 2, 201
+  size: 493, 27
+  orig: 493, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,117 @@
+
+wave_.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F2
+  rotate: true
+  xy: 2, 2
+  size: 30, 153
+  orig: 30, 153
+  offset: 0, 0
+  index: -1
+F4
+  rotate: true
+  xy: 157, 12
+  size: 20, 93
+  orig: 20, 93
+  offset: 0, 0
+  index: -1
+FOAM1
+  rotate: false
+  xy: 2, 489
+  size: 1004, 519
+  orig: 1004, 519
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 2, 34
+  size: 1004, 453
+  orig: 1004, 453
+  offset: 0, 0
+  index: -1
+
+wave_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F1
+  rotate: true
+  xy: 395, 180
+  size: 49, 171
+  orig: 49, 171
+  offset: 0, 0
+  index: -1
+F3
+  rotate: false
+  xy: 2, 11
+  size: 110, 218
+  orig: 110, 218
+  offset: 0, 0
+  index: -1
+F5
+  rotate: false
+  xy: 906, 740
+  size: 116, 127
+  orig: 116, 127
+  offset: 0, 0
+  index: -1
+F6
+  rotate: false
+  xy: 906, 869
+  size: 116, 151
+  orig: 116, 151
+  offset: 0, 0
+  index: -1
+S1
+  rotate: false
+  xy: 257, 124
+  size: 136, 105
+  orig: 136, 105
+  offset: 0, 0
+  index: -1
+S2
+  rotate: false
+  xy: 114, 43
+  size: 141, 186
+  orig: 141, 186
+  offset: 0, 0
+  index: -1
+S3
+  rotate: true
+  xy: 257, 41
+  size: 81, 85
+  orig: 81, 85
+  offset: 0, 0
+  index: -1
+S4
+  rotate: false
+  xy: 906, 535
+  size: 109, 203
+  orig: 109, 203
+  offset: 0, 0
+  index: -1
+S5
+  rotate: true
+  xy: 906, 464
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+Water2
+  rotate: false
+  xy: 2, 486
+  size: 902, 534
+  orig: 902, 534
+  offset: 0, 0
+  index: -1
+foam34
+  rotate: false
+  xy: 2, 231
+  size: 850, 253
+  orig: 850, 253
+  offset: 0, 0
+  index: -1

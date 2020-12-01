@@ -1,0 +1,83 @@
+
+cleanarm_.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG_spr_brush-8
+  rotate: true
+  xy: 301, 341
+  size: 52, 169
+  orig: 52, 169
+  offset: 0, 0
+  index: -1
+BIG_spr_brush-9
+  rotate: true
+  xy: 301, 295
+  size: 44, 181
+  orig: 44, 181
+  offset: 0, 0
+  index: -1
+brush
+  rotate: false
+  xy: 2, 75
+  size: 219, 134
+  orig: 219, 134
+  offset: 0, 0
+  index: -1
+brush_rowl1
+  rotate: false
+  xy: 2, 361
+  size: 219, 149
+  orig: 219, 149
+  offset: 0, 0
+  index: -1
+brush_rowl2
+  rotate: false
+  xy: 2, 211
+  size: 219, 148
+  orig: 219, 148
+  offset: 0, 0
+  index: -1
+cleanarm
+  rotate: false
+  xy: 223, 395
+  size: 246, 115
+  orig: 246, 115
+  offset: 0, 0
+  index: -1
+handle
+  rotate: true
+  xy: 223, 109
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+pillar1
+  rotate: false
+  xy: 315, 184
+  size: 66, 109
+  orig: 66, 109
+  offset: 0, 0
+  index: -1
+pillar3
+  rotate: false
+  xy: 223, 2
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+pillar4
+  rotate: true
+  xy: 2, 20
+  size: 53, 185
+  orig: 53, 185
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 223, 230
+  size: 76, 163
+  orig: 76, 163
+  offset: 0, 0
+  index: -1

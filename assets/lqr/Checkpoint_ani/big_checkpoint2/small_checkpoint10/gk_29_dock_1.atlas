@@ -1,0 +1,195 @@
+
+gk_29_dock_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG_spr_p_violet_barzha_0_0
+  rotate: true
+  xy: 92, 56
+  size: 30, 108
+  orig: 30, 108
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 2, 779
+  size: 461, 134
+  orig: 461, 134
+  offset: 0, 0
+  index: -1
+Gase_socket
+  rotate: false
+  xy: 755, 960
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 341, 458
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: true
+  xy: 202, 56
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+Tross
+  rotate: false
+  xy: 2, 534
+  size: 305, 243
+  orig: 305, 243
+  offset: 0, 0
+  index: -1
+brizgi
+  rotate: false
+  xy: 230, 242
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1
+cabin
+  rotate: false
+  xy: 92, 88
+  size: 136, 199
+  orig: 136, 199
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: false
+  xy: 230, 193
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+drumm
+  rotate: true
+  xy: 92, 289
+  size: 243, 237
+  orig: 243, 237
+  offset: 0, 0
+  index: -1
+gascap
+  rotate: true
+  xy: 551, 860
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+gashole
+  rotate: false
+  xy: 230, 161
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+opendoor
+  rotate: false
+  xy: 341, 405
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+reflect1
+  rotate: true
+  xy: 63, 39
+  size: 493, 27
+  orig: 493, 27
+  offset: 0, 0
+  index: -1
+reflect2
+  rotate: false
+  xy: 589, 939
+  size: 100, 17
+  orig: 100, 17
+  offset: 0, 0
+  index: -1
+reflect3
+  rotate: true
+  xy: 444, 501
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+reflect4
+  rotate: true
+  xy: 331, 102
+  size: 436, 8
+  orig: 436, 8
+  offset: 0, 0
+  index: -1
+reflect5
+  rotate: true
+  xy: 415, 414
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+roll1
+  rotate: false
+  xy: 2, 2
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+rollholder
+  rotate: true
+  xy: 309, 540
+  size: 237, 148
+  orig: 237, 148
+  offset: 0, 0
+  index: -1
+sh
+  rotate: true
+  xy: 2, 55
+  size: 477, 59
+  orig: 477, 59
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 465, 810
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+topblock
+  rotate: false
+  xy: 589, 958
+  size: 164, 58
+  orig: 164, 58
+  offset: 0, 0
+  index: -1
+tube
+  rotate: true
+  xy: 465, 785
+  size: 23, 78
+  orig: 23, 78
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 833, 991
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 915
+  size: 585, 101
+  orig: 585, 101
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 341, 366
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+t5_stage_5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 724
+  size: 511, 192
+  orig: 511, 192
+  offset: 0, 0
+  index: -1
+TROSS22
+  rotate: false
+  xy: 293, 203
+  size: 10, 236
+  orig: 10, 236
+  offset: 0, 0
+  index: -1
+TXT
+  rotate: false
+  xy: 880, 906
+  size: 82, 23
+  orig: 82, 23
+  offset: 0, 0
+  index: -1
+angle
+  rotate: false
+  xy: 734, 560
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+antenne
+  rotate: true
+  xy: 482, 462
+  size: 64, 136
+  orig: 64, 136
+  offset: 0, 0
+  index: -1
+blink_green
+  rotate: false
+  xy: 825, 574
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+blink_red
+  rotate: false
+  xy: 359, 364
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+brizgi
+  rotate: true
+  xy: 305, 245
+  size: 95, 46
+  orig: 95, 47
+  offset: 0, 1
+  index: -1
+cabin
+  rotate: false
+  xy: 117, 441
+  size: 227, 281
+  orig: 227, 281
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: true
+  xy: 975, 750
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+detail
+  rotate: true
+  xy: 620, 449
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+first_flor
+  rotate: false
+  xy: 608, 898
+  size: 270, 124
+  orig: 270, 124
+  offset: 0, 0
+  index: -1
+hook
+  rotate: false
+  xy: 305, 342
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+lifeboy
+  rotate: false
+  xy: 441, 384
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+lifeboyshadow
+  rotate: false
+  xy: 499, 399
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+pillar1
+  rotate: true
+  xy: 346, 447
+  size: 275, 134
+  orig: 275, 134
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: true
+  xy: 117, 195
+  size: 244, 146
+  orig: 244, 146
+  offset: 0, 0
+  index: -1
+pillar3
+  rotate: false
+  xy: 482, 528
+  size: 222, 140
+  orig: 222, 140
+  offset: 0, 0
+  index: -1
+pillar4
+  rotate: true
+  xy: 880, 931
+  size: 91, 127
+  orig: 91, 127
+  offset: 0, 0
+  index: -1
+pillar5
+  rotate: false
+  xy: 2, 2
+  size: 93, 24
+  orig: 93, 24
+  offset: 0, 0
+  index: -1
+refl1
+  rotate: false
+  xy: 975, 731
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+refl2
+  rotate: false
+  xy: 975, 712
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+refl3
+  rotate: true
+  xy: 706, 541
+  size: 127, 26
+  orig: 127, 26
+  offset: 0, 0
+  index: -1
+reflecct
+  rotate: true
+  xy: 87, 174
+  size: 548, 28
+  orig: 548, 28
+  offset: 0, 0
+  index: -1
+reflectios
+  rotate: true
+  xy: 2, 132
+  size: 590, 83
+  orig: 590, 83
+  offset: 0, 0
+  index: -1
+roof
+  rotate: true
+  xy: 265, 170
+  size: 269, 26
+  orig: 269, 26
+  offset: 0, 0
+  index: -1
+screwblade
+  rotate: true
+  xy: 1009, 1014
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+screwblade2
+  rotate: false
+  xy: 482, 447
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+screwstick
+  rotate: false
+  xy: 515, 911
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+second_flor
+  rotate: false
+  xy: 515, 670
+  size: 223, 149
+  orig: 223, 149
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 2, 28
+  size: 84, 102
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+tross1
+  rotate: false
+  xy: 515, 831
+  size: 435, 65
+  orig: 435, 65
+  offset: 0, 0
+  index: -1
+tross2
+  rotate: true
+  xy: 117, 178
+  size: 15, 145
+  orig: 15, 145
+  offset: 0, 0
+  index: -1
+tross3
+  rotate: false
+  xy: 963, 668
+  size: 10, 151
+  orig: 10, 151
+  offset: 0, 0
+  index: -1
+tube
+  rotate: true
+  xy: 907, 593
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 918
+  size: 604, 104
+  orig: 604, 104
+  offset: 0, 0
+  index: -1
+waterline
+  rotate: false
+  xy: 515, 821
+  size: 485, 8
+  orig: 485, 8
+  offset: 0, 0
+  index: -1
+wheel2
+  rotate: true
+  xy: 740, 657
+  size: 162, 221
+  orig: 162, 221
+  offset: 0, 0
+  index: -1

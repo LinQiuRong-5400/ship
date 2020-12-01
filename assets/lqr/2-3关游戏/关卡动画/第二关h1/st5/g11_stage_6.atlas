@@ -1,0 +1,300 @@
+
+g11_stage_6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ship_Base
+  rotate: false
+  xy: 2, 743
+  size: 654, 279
+  orig: 654, 279
+  offset: 0, 0
+  index: -1
+ancor
+  rotate: true
+  xy: 274, 127
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+blink_green
+  rotate: false
+  xy: 274, 333
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+blink_red
+  rotate: false
+  xy: 434, 540
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+brizgi
+  rotate: true
+  xy: 956, 927
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+cabin1
+  rotate: true
+  xy: 873, 809
+  size: 213, 81
+  orig: 213, 81
+  offset: 0, 0
+  index: -1
+cabin2
+  rotate: false
+  xy: 658, 767
+  size: 213, 255
+  orig: 213, 255
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 612, 637
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: true
+  xy: 612, 672
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+cloud_2
+  rotate: true
+  xy: 274, 416
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+crane_base
+  rotate: false
+  xy: 274, 223
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+dpile
+  rotate: true
+  xy: 873, 776
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+frontdoor
+  rotate: false
+  xy: 658, 752
+  size: 152, 13
+  orig: 152, 13
+  offset: 0, 0
+  index: -1
+gashole
+  rotate: false
+  xy: 425, 439
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+gasholebase
+  rotate: false
+  xy: 274, 275
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+hook
+  rotate: true
+  xy: 51, 3
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+keel
+  rotate: true
+  xy: 469, 477
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+koleso
+  rotate: false
+  xy: 425, 471
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+koleso2
+  rotate: false
+  xy: 356, 384
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+lifebouye
+  rotate: false
+  xy: 359, 441
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+loop
+  rotate: true
+  xy: 2, 2
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+opendoor
+  rotate: false
+  xy: 274, 172
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+pillar
+  rotate: false
+  xy: 359, 516
+  size: 73, 105
+  orig: 73, 105
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: false
+  xy: 469, 441
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+puili
+  rotate: false
+  xy: 274, 623
+  size: 250, 118
+  orig: 250, 118
+  offset: 0, 0
+  index: -1
+reflect1
+  rotate: true
+  xy: 244, 36
+  size: 705, 18
+  orig: 705, 18
+  offset: 0, 0
+  index: -1
+reflect2
+  rotate: false
+  xy: 812, 753
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1
+reflect3
+  rotate: true
+  xy: 956, 820
+  size: 105, 27
+  orig: 105, 27
+  offset: 0, 0
+  index: -1
+screwblade1
+  rotate: false
+  xy: 985, 907
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+screwblade2
+  rotate: false
+  xy: 1005, 929
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+screwstick
+  rotate: false
+  xy: 956, 812
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+shadowreflect
+  rotate: true
+  xy: 2, 50
+  size: 691, 134
+  orig: 691, 134
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 526, 638
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+stair_1
+  rotate: true
+  xy: 1005, 949
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+trosses
+  rotate: true
+  xy: 434, 515
+  size: 23, 83
+  orig: 23, 83
+  offset: 0, 0
+  index: -1
+tube1
+  rotate: true
+  xy: 359, 416
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+tube2
+  rotate: true
+  xy: 359, 416
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+tubebase
+  rotate: false
+  xy: 274, 513
+  size: 83, 108
+  orig: 83, 108
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 51, 24
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+waterline
+  rotate: true
+  xy: 264, 135
+  size: 606, 8
+  orig: 606, 8
+  offset: 0, 0
+  index: -1
+watersurface
+  rotate: true
+  xy: 138, 43
+  size: 698, 104
+  orig: 698, 104
+  offset: 0, 0
+  index: -1
+wh
+  rotate: false
+  xy: 356, 357
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1

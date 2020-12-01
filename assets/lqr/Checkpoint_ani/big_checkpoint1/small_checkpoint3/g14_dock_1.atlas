@@ -1,0 +1,342 @@
+
+g14_dock_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE_01
+  rotate: false
+  xy: 2, 730
+  size: 578, 186
+  orig: 578, 186
+  offset: 0, 0
+  index: -1
+Hook
+  rotate: true
+  xy: 301, 152
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+Pill3_joint
+  rotate: false
+  xy: 188, 156
+  size: 111, 125
+  orig: 111, 125
+  offset: 0, 0
+  index: -1
+Pillar1_base1
+  rotate: false
+  xy: 885, 971
+  size: 112, 51
+  orig: 112, 51
+  offset: 0, 0
+  index: -1
+Pillar1_base2
+  rotate: false
+  xy: 563, 493
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+Pillar3
+  rotate: true
+  xy: 140, 118
+  size: 392, 46
+  orig: 392, 46
+  offset: 0, 0
+  index: -1
+Pillar_1
+  rotate: false
+  xy: 188, 283
+  size: 203, 227
+  orig: 203, 227
+  offset: 0, 0
+  index: -1
+TXT
+  rotate: true
+  xy: 614, 421
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+Tube
+  rotate: true
+  xy: 286, 113
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+blink_green
+  rotate: false
+  xy: 393, 400
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+blink_red
+  rotate: false
+  xy: 393, 317
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+brizgi
+  rotate: false
+  xy: 188, 107
+  size: 96, 47
+  orig: 96, 47
+  offset: 0, 0
+  index: -1
+cabin
+  rotate: false
+  xy: 140, 512
+  size: 255, 216
+  orig: 255, 216
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 359, 97
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+chipper1
+  rotate: true
+  xy: 393, 249
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+chipper2
+  rotate: false
+  xy: 394, 157
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+chipper3
+  rotate: false
+  xy: 462, 157
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+chipper4
+  rotate: false
+  xy: 563, 638
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: true
+  xy: 475, 366
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+csrewblade2
+  rotate: true
+  xy: 735, 750
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+gashole
+  rotate: false
+  xy: 394, 125
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+gashole2
+  rotate: false
+  xy: 475, 317
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+hanger1
+  rotate: true
+  xy: 563, 564
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+hanger2
+  rotate: false
+  xy: 485, 258
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+machta
+  rotate: true
+  xy: 885, 928
+  size: 41, 104
+  orig: 41, 104
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 493, 437
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+openetdoor
+  rotate: true
+  xy: 563, 421
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+pill2_joint
+  rotate: false
+  xy: 301, 206
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: false
+  xy: 29, 2
+  size: 339, 85
+  orig: 339, 85
+  offset: 0, 0
+  index: -1
+rail
+  rotate: true
+  xy: 540, 399
+  size: 329, 21
+  orig: 329, 21
+  offset: 0, 0
+  index: -1
+railing
+  rotate: true
+  xy: 493, 501
+  size: 227, 45
+  orig: 227, 45
+  offset: 0, 0
+  index: -1
+redpillar
+  rotate: true
+  xy: 397, 483
+  size: 245, 94
+  orig: 245, 94
+  offset: 0, 0
+  index: -1
+ref1
+  rotate: false
+  xy: 563, 402
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+ref2
+  rotate: true
+  xy: 999, 928
+  size: 94, 23
+  orig: 94, 23
+  offset: 0, 0
+  index: -1
+reflect1
+  rotate: true
+  xy: 2, 5
+  size: 723, 25
+  orig: 723, 25
+  offset: 0, 0
+  index: -1
+roof
+  rotate: true
+  xy: 582, 760
+  size: 156, 193
+  orig: 156, 193
+  offset: 0, 0
+  index: -1
+rope1
+  rotate: false
+  xy: 777, 771
+  size: 15, 145
+  orig: 15, 145
+  offset: 0, 0
+  index: -1
+rope2
+  rotate: true
+  xy: 582, 748
+  size: 10, 151
+  orig: 10, 151
+  offset: 0, 0
+  index: -1
+rudder
+  rotate: false
+  xy: 476, 121
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+screwblade1
+  rotate: true
+  xy: 777, 761
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+screwstick
+  rotate: true
+  xy: 582, 730
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+shadowreflect
+  rotate: true
+  xy: 29, 107
+  size: 621, 99
+  orig: 621, 99
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 799, 919
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+tube_base
+  rotate: false
+  xy: 29, 95
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+waterline
+  rotate: true
+  xy: 130, 89
+  size: 639, 8
+  orig: 639, 8
+  offset: 0, 0
+  index: -1
+watersurface
+  rotate: false
+  xy: 2, 918
+  size: 795, 104
+  orig: 795, 104
+  offset: 0, 0
+  index: -1
+wheel1
+  rotate: false
+  xy: 438, 120
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+wheel2
+  rotate: true
+  xy: 140, 89
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

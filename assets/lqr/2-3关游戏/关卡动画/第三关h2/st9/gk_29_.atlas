@@ -1,0 +1,195 @@
+
+gk_29_.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG_spr_p_violet_barzha_0_0
+  rotate: false
+  xy: 279, 198
+  size: 17, 60
+  orig: 17, 60
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 2, 377
+  size: 255, 74
+  orig: 255, 74
+  offset: 0, 0
+  index: -1
+Gase_socket
+  rotate: false
+  xy: 467, 478
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: false
+  xy: 361, 379
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+Layer 45
+  rotate: true
+  xy: 496, 427
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Tross
+  rotate: false
+  xy: 2, 240
+  size: 169, 135
+  orig: 169, 135
+  offset: 0, 0
+  index: -1
+blink_green
+  rotate: false
+  xy: 279, 343
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+blink_red
+  rotate: false
+  xy: 279, 260
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+brizgi copy
+  rotate: false
+  xy: 259, 426
+  size: 51, 25
+  orig: 51, 26
+  offset: 0, 1
+  index: -1
+bui_boddy
+  rotate: false
+  xy: 467, 436
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+cabin
+  rotate: true
+  xy: 42, 25
+  size: 76, 110
+  orig: 76, 110
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: false
+  xy: 361, 350
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+drumm
+  rotate: true
+  xy: 42, 103
+  size: 135, 125
+  orig: 135, 131
+  offset: 0, 6
+  index: -1
+reflect1 copy
+  rotate: true
+  xy: 257, 101
+  size: 274, 13
+  orig: 274, 13
+  offset: 0, 0
+  index: -1
+reflect2 copy
+  rotate: false
+  xy: 2, 2
+  size: 56, 10
+  orig: 56, 10
+  offset: 0, 0
+  index: -1
+reflect3 copy
+  rotate: true
+  xy: 83, 2
+  size: 21, 7
+  orig: 21, 7
+  offset: 0, 0
+  index: -1
+reflect4 copy
+  rotate: true
+  xy: 272, 182
+  size: 242, 5
+  orig: 242, 5
+  offset: 0, 0
+  index: -1
+reflect5 copy
+  rotate: true
+  xy: 312, 427
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+roll1
+  rotate: false
+  xy: 298, 230
+  size: 28, 28
+  orig: 28, 29
+  offset: 0, 1
+  index: -1
+rollholder
+  rotate: true
+  xy: 173, 244
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+sh
+  rotate: true
+  xy: 2, 14
+  size: 224, 38
+  orig: 224, 38
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: true
+  xy: 329, 426
+  size: 84, 102
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+top_block
+  rotate: true
+  xy: 433, 419
+  size: 91, 32
+  orig: 91, 32
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 154, 57
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+txt
+  rotate: true
+  xy: 496, 446
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+water copy
+  rotate: false
+  xy: 2, 453
+  size: 325, 57
+  orig: 325, 57
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 60, 2
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

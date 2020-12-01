@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "441cd3aa-7ee6-4fe7-8109-80b9d12b6f14",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 391,
+  "height": 67,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_p_red-barzha_5_0": {
+      "ver": "1.0.4",
+      "uuid": "ca6db8dd-dec7-43ec-8fca-d1415a7e498d",
+      "rawTextureUuid": "441cd3aa-7ee6-4fe7-8109-80b9d12b6f14",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 391,
+      "height": 67,
+      "rawWidth": 391,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

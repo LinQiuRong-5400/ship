@@ -1,0 +1,41 @@
+
+end_game_anim.png
+size: 529,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_b
+  rotate: true
+  xy: 2, 10
+  size: 312, 301
+  orig: 312, 308
+  offset: 0, 7
+  index: -1
+1_s
+  rotate: false
+  xy: 305, 2
+  size: 196, 182
+  orig: 196, 182
+  offset: 0, 0
+  index: -1
+1_w1
+  rotate: true
+  xy: 503, 149
+  size: 19, 23
+  orig: 21, 25
+  offset: 1, 1
+  index: -1
+1_w2
+  rotate: false
+  xy: 305, 186
+  size: 222, 136
+  orig: 224, 138
+  offset: 1, 1
+  index: -1
+1_w3
+  rotate: false
+  xy: 503, 170
+  size: 24, 14
+  orig: 26, 16
+  offset: 1, 1
+  index: -1

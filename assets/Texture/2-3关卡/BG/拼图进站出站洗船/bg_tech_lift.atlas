@@ -1,0 +1,13 @@
+
+bg_tech_lift.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_assembly_Back/Lifter
+  rotate: false
+  xy: 2, 667
+  size: 836, 169
+  orig: 836, 169
+  offset: 0, 0
+  index: -1

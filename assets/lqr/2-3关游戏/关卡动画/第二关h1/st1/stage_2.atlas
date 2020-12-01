@@ -1,0 +1,153 @@
+
+stage_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Island
+  rotate: false
+  xy: 2, 42
+  size: 441, 212
+  orig: 441, 212
+  offset: 0, 0
+  index: -1
+Lighouse_granit_FG
+  rotate: false
+  xy: 445, 97
+  size: 108, 40
+  orig: 108, 40
+  offset: 0, 0
+  index: -1
+Lighthouse_beton1_BG
+  rotate: false
+  xy: 445, 56
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1
+Lighthouse_beton1_FG
+  rotate: false
+  xy: 579, 149
+  size: 94, 43
+  orig: 94, 43
+  offset: 0, 0
+  index: -1
+Lighthouse_granit_BG
+  rotate: false
+  xy: 766, 223
+  size: 102, 31
+  orig: 102, 31
+  offset: 0, 0
+  index: -1
+cloud_3
+  rotate: false
+  xy: 445, 139
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 11
+  size: 152, 29
+  orig: 152, 29
+  offset: 0, 0
+  index: -1
+stairs
+  rotate: true
+  xy: 579, 194
+  size: 60, 185
+  orig: 60, 185
+  offset: 0, 0
+  index: -1
+stones/blockbase
+  rotate: false
+  xy: 870, 238
+  size: 87, 16
+  orig: 87, 16
+  offset: 0, 0
+  index: -1
+stones/blocks_1
+  rotate: false
+  xy: 156, 14
+  size: 88, 26
+  orig: 88, 26
+  offset: 0, 0
+  index: -1
+stones/blocks_2
+  rotate: false
+  xy: 675, 166
+  size: 88, 26
+  orig: 88, 26
+  offset: 0, 0
+  index: -1
+stones/blocks_3
+  rotate: false
+  xy: 766, 196
+  size: 88, 25
+  orig: 88, 25
+  offset: 0, 0
+  index: -1
+stones/staone_7
+  rotate: false
+  xy: 299, 10
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+stones/stone_1
+  rotate: false
+  xy: 405, 16
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+stones/stone_2
+  rotate: true
+  xy: 555, 101
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+stones/stone_3
+  rotate: false
+  xy: 745, 135
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+stones/stone_4
+  rotate: true
+  xy: 246, 2
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+stones/stone_5
+  rotate: false
+  xy: 335, 14
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+stones/stone_6
+  rotate: true
+  xy: 273, 2
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+stones/stone_8
+  rotate: true
+  xy: 372, 13
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+stones/stripes
+  rotate: false
+  xy: 675, 111
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1

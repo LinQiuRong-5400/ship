@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2fbf18c9-bdd3-4282-b709-fae52a866a9f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 556,
+  "height": 160,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_p_barge_conveyor_5_0": {
+      "ver": "1.0.4",
+      "uuid": "a892c03b-a170-40a9-94eb-8d9ee2169deb",
+      "rawTextureUuid": "2fbf18c9-bdd3-4282-b709-fae52a866a9f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 556,
+      "height": 160,
+      "rawWidth": 556,
+      "rawHeight": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

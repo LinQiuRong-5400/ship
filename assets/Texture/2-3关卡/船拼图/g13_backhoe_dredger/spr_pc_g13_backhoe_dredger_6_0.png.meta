@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0d65eb19-7f1b-4484-b9ca-7bbf224fbca7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 368,
+  "height": 208,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_pc_g13_backhoe_dredger_6_0": {
+      "ver": "1.0.4",
+      "uuid": "7430691c-97f8-4f67-bee2-6d23f89aea55",
+      "rawTextureUuid": "0d65eb19-7f1b-4484-b9ca-7bbf224fbca7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 368,
+      "height": 208,
+      "rawWidth": 368,
+      "rawHeight": 208,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

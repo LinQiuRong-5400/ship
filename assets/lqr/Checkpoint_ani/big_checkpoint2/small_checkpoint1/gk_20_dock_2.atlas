@@ -1,0 +1,174 @@
+
+gk_20_dock_2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 2, 430
+  size: 513, 142
+  orig: 513, 142
+  offset: 0, 0
+  index: -1
+cabin
+  rotate: false
+  xy: 613, 710
+  size: 202, 312
+  orig: 202, 312
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: false
+  xy: 105, 53
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+deepreflection
+  rotate: false
+  xy: 2, 369
+  size: 477, 59
+  orig: 477, 59
+  offset: 0, 0
+  index: -1
+dirt
+  rotate: false
+  xy: 2, 677
+  size: 609, 345
+  orig: 609, 345
+  offset: 0, 0
+  index: -1
+gashole2
+  rotate: false
+  xy: 361, 272
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+hanger
+  rotate: true
+  xy: 249, 243
+  size: 85, 110
+  orig: 85, 110
+  offset: 0, 0
+  index: -1
+kan2
+  rotate: false
+  xy: 2, 102
+  size: 191, 46
+  orig: 191, 46
+  offset: 0, 0
+  index: -1
+ladle
+  rotate: true
+  xy: 817, 748
+  size: 274, 190
+  orig: 274, 191
+  offset: 0, 0
+  index: -1
+lifeboy
+  rotate: true
+  xy: 105, 2
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+ref1
+  rotate: true
+  xy: 517, 479
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+ref2
+  rotate: false
+  xy: 2, 2
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+ref3
+  rotate: true
+  xy: 481, 386
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+ref4
+  rotate: true
+  xy: 226, 177
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+ref5
+  rotate: true
+  xy: 589, 575
+  size: 100, 17
+  orig: 100, 17
+  offset: 0, 0
+  index: -1
+ref6
+  rotate: true
+  xy: 589, 575
+  size: 100, 17
+  orig: 100, 17
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 2, 16
+  size: 84, 101
+  orig: 84, 103
+  offset: 0, 1
+  index: -1
+stairs
+  rotate: false
+  xy: 2, 221
+  size: 245, 107
+  orig: 245, 108
+  offset: 0, 0
+  index: -1
+strip
+  rotate: false
+  xy: 2, 150
+  size: 222, 69
+  orig: 222, 69
+  offset: 0, 0
+  index: -1
+tube
+  rotate: true
+  xy: 817, 724
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+txt_GK-20
+  rotate: false
+  xy: 613, 683
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 574
+  size: 585, 101
+  orig: 585, 101
+  offset: 0, 0
+  index: -1
+waterline1
+  rotate: false
+  xy: 2, 330
+  size: 436, 8
+  orig: 436, 8
+  offset: 0, 0
+  index: -1
+waterline2
+  rotate: false
+  xy: 2, 340
+  size: 493, 27
+  orig: 493, 27
+  offset: 0, 0
+  index: -1

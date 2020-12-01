@@ -1,0 +1,286 @@
+
+t8_2_sep_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 431
+  size: 590, 174
+  orig: 590, 174
+  offset: 0, 0
+  index: -1
+Tube_
+  rotate: false
+  xy: 2, 60
+  size: 300, 137
+  orig: 300, 137
+  offset: 0, 0
+  index: -1
+ancor
+  rotate: false
+  xy: 911, 515
+  size: 39, 57
+  orig: 39, 57
+  offset: 0, 0
+  index: -1
+big_wheel
+  rotate: false
+  xy: 594, 481
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+blink_green
+  rotate: false
+  xy: 599, 127
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+blink_red
+  rotate: false
+  xy: 548, 23
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+brizgi
+  rotate: false
+  xy: 812, 525
+  size: 97, 47
+  orig: 97, 47
+  offset: 0, 0
+  index: -1
+bubble_red
+  rotate: false
+  xy: 966, 915
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+cabin_bottom
+  rotate: false
+  xy: 812, 574
+  size: 140, 168
+  orig: 140, 168
+  offset: 0, 0
+  index: -1
+cabin_top
+  rotate: true
+  xy: 597, 623
+  size: 119, 213
+  orig: 119, 213
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 249, 25
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+carcass
+  rotate: false
+  xy: 597, 744
+  size: 292, 278
+  orig: 292, 278
+  offset: 0, 0
+  index: -1
+closeddoor
+  rotate: false
+  xy: 594, 433
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+cloud_dirt
+  rotate: false
+  xy: 715, 538
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+dirt
+  rotate: false
+  xy: 2, 607
+  size: 593, 415
+  orig: 593, 415
+  offset: 0, 0
+  index: -1
+gazhole
+  rotate: false
+  xy: 671, 567
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+gazhole2
+  rotate: false
+  xy: 594, 542
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+mast
+  rotate: true
+  xy: 139, 28
+  size: 30, 108
+  orig: 30, 108
+  offset: 0, 0
+  index: -1
+opendoor
+  rotate: false
+  xy: 891, 744
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+pillar
+  rotate: true
+  xy: 594, 210
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+pillar2
+  rotate: false
+  xy: 891, 899
+  size: 73, 123
+  orig: 73, 123
+  offset: 0, 0
+  index: -1
+reflect1
+  rotate: false
+  xy: 2, 294
+  size: 646, 29
+  orig: 646, 29
+  offset: 0, 0
+  index: -1
+reflect2
+  rotate: false
+  xy: 597, 599
+  size: 91, 22
+  orig: 91, 22
+  offset: 0, 0
+  index: -1
+reflect3
+  rotate: false
+  xy: 599, 109
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+reflectbottom
+  rotate: false
+  xy: 2, 209
+  size: 590, 83
+  orig: 590, 83
+  offset: 0, 0
+  index: -1
+roof
+  rotate: false
+  xy: 2, 18
+  size: 135, 40
+  orig: 135, 40
+  offset: 0, 0
+  index: -1
+sand_
+  rotate: false
+  xy: 304, 24
+  size: 242, 173
+  orig: 242, 173
+  offset: 0, 0
+  index: -1
+screwblade1
+  rotate: false
+  xy: 962, 772
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+screwblade2
+  rotate: true
+  xy: 2, 7
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+screwstick
+  rotate: false
+  xy: 220, 19
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 891, 794
+  size: 84, 103
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+stone_01
+  rotate: false
+  xy: 966, 904
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+stone_02
+  rotate: false
+  xy: 655, 531
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+stone_03
+  rotate: false
+  xy: 690, 611
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+tube
+  rotate: false
+  xy: 548, 106
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+txt_
+  rotate: false
+  xy: 139, 2
+  size: 79, 24
+  orig: 79, 24
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 2, 325
+  size: 711, 104
+  orig: 711, 104
+  offset: 0, 0
+  index: -1
+waterline
+  rotate: false
+  xy: 2, 199
+  size: 571, 8
+  orig: 571, 8
+  offset: 0, 0
+  index: -1
+wh
+  rotate: true
+  xy: 650, 295
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+wheel1
+  rotate: false
+  xy: 966, 966
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1

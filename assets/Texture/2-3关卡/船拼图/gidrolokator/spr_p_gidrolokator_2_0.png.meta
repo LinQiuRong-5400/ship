@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "32f32eef-ce29-47ea-9b47-908dcb13ba15",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 53,
+  "height": 195,
+  "platformSettings": {},
+  "subMetas": {
+    "spr_p_gidrolokator_2_0": {
+      "ver": "1.0.4",
+      "uuid": "779130ff-fd89-4769-ba7e-19358eb4329f",
+      "rawTextureUuid": "32f32eef-ce29-47ea-9b47-908dcb13ba15",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 53,
+      "height": 195,
+      "rawWidth": 53,
+      "rawHeight": 195,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

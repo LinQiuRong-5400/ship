@@ -1,0 +1,195 @@
+
+home_6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+between_stairs
+  rotate: false
+  xy: 700, 421
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+boat
+  rotate: false
+  xy: 452, 418
+  size: 246, 92
+  orig: 246, 92
+  offset: 0, 0
+  index: -1
+boat_motor
+  rotate: false
+  xy: 529, 303
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+boat_rope
+  rotate: false
+  xy: 593, 329
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+boat_water_surface
+  rotate: false
+  xy: 700, 466
+  size: 283, 44
+  orig: 283, 44
+  offset: 0, 0
+  index: -1
+boat_waves
+  rotate: false
+  xy: 2, 12
+  size: 282, 25
+  orig: 282, 25
+  offset: 0, 0
+  index: -1
+deck
+  rotate: false
+  xy: 529, 377
+  size: 165, 39
+  orig: 165, 39
+  offset: 0, 0
+  index: -1
+deck_shadow
+  rotate: true
+  xy: 452, 158
+  size: 258, 75
+  orig: 258, 75
+  offset: 0, 0
+  index: -1
+grass_sides
+  rotate: false
+  xy: 362, 13
+  size: 85, 24
+  orig: 85, 24
+  offset: 0, 0
+  index: -1
+grass_up
+  rotate: false
+  xy: 286, 2
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+layer_430
+  rotate: true
+  xy: 529, 228
+  size: 73, 27
+  orig: 73, 27
+  offset: 0, 0
+  index: -1
+lighthouse
+  rotate: false
+  xy: 2, 39
+  size: 448, 471
+  orig: 448, 471
+  offset: 0, 0
+  index: -1
+rope_1
+  rotate: false
+  xy: 449, 2
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+rope_3
+  rotate: false
+  xy: 449, 17
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+spile
+  rotate: true
+  xy: 700, 433
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+spile_R
+  rotate: false
+  xy: 985, 428
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+spile_shadow
+  rotate: false
+  xy: 593, 304
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+spile_up
+  rotate: false
+  xy: 452, 39
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+spile_waves_L_1
+  rotate: false
+  xy: 640, 351
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1
+spile_waves_L_2
+  rotate: true
+  xy: 529, 163
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+spile_waves_R_1
+  rotate: false
+  xy: 640, 326
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+spile_waves_R_2
+  rotate: true
+  xy: 553, 167
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+splashes
+  rotate: true
+  xy: 452, 61
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+stair1
+  rotate: false
+  xy: 777, 450
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+stair2
+  rotate: true
+  xy: 558, 228
+  size: 73, 14
+  orig: 73, 14
+  offset: 0, 0
+  index: -1
+stair_2_shadow
+  rotate: false
+  xy: 2, 5
+  size: 69, 5
+  orig: 69, 5
+  offset: 0, 0
+  index: -1
+stair_shadow
+  rotate: true
+  xy: 501, 81
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1

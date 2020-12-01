@@ -1,0 +1,19 @@
+{
+  "package": "com.eggstudio.bbmnzc.nearme.gamecenter",
+  "name": "宝宝模拟造船",
+  "icon": "D:\\CC230Projects\\ship3\\build\\icon.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1060",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "tinyPackageMode": false,
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "D:\\KEY\\JZYpem\\private.pem",
+  "certificatePath": "D:\\KEY\\JZYpem\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

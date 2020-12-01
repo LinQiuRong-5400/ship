@@ -1,0 +1,138 @@
+
+s4_isl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coralls
+  rotate: true
+  xy: 861, 647
+  size: 370, 161
+  orig: 370, 161
+  offset: 0, 0
+  index: -1
+oblomki
+  rotate: false
+  xy: 303, 134
+  size: 708, 143
+  orig: 708, 143
+  offset: 0, 0
+  index: -1
+priboi_waterline
+  rotate: true
+  xy: 204, 37
+  size: 431, 97
+  orig: 431, 97
+  offset: 0, 0
+  index: -1
+sand_base
+  rotate: false
+  xy: 303, 279
+  size: 717, 189
+  orig: 717, 189
+  offset: 0, 0
+  index: -1
+volnoloms
+  rotate: true
+  xy: 2, 38
+  size: 607, 200
+  orig: 607, 200
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 2, 698
+  size: 843, 127
+  orig: 843, 127
+  offset: 0, 0
+  index: -1
+waterfront
+  rotate: false
+  xy: 2, 827
+  size: 857, 190
+  orig: 857, 190
+  offset: 0, 0
+  index: -1
+waterfront_on_sand
+  rotate: false
+  xy: 204, 470
+  size: 798, 175
+  orig: 798, 175
+  offset: 0, 0
+  index: -1
+wave1
+  rotate: false
+  xy: 2, 2
+  size: 138, 34
+  orig: 138, 34
+  offset: 0, 0
+  index: -1
+wave2
+  rotate: false
+  xy: 165, 16
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+wave3
+  rotate: true
+  xy: 847, 781
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+wave4
+  rotate: true
+  xy: 142, 4
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+wave5
+  rotate: true
+  xy: 847, 750
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+wave7
+  rotate: true
+  xy: 1004, 495
+  size: 150, 18
+  orig: 150, 18
+  offset: 0, 0
+  index: -1
+waves
+  rotate: false
+  xy: 303, 21
+  size: 547, 111
+  orig: 547, 111
+  offset: 0, 0
+  index: -1
+
+s4_isl2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sand1
+  rotate: false
+  xy: 2, 90
+  size: 570, 101
+  orig: 570, 101
+  offset: 0, 0
+  index: -1
+send_base_top
+  rotate: false
+  xy: 578, 53
+  size: 354, 138
+  orig: 354, 138
+  offset: 0, 0
+  index: -1
+waterline_on_stone
+  rotate: false
+  xy: 2, 2
+  size: 574, 86
+  orig: 574, 86
+  offset: 0, 0
+  index: -1

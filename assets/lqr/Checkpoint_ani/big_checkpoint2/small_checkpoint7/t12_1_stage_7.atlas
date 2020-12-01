@@ -1,0 +1,167 @@
+
+t12_1_stage_7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 2, 709
+  size: 646, 205
+  orig: 646, 205
+  offset: 0, 0
+  index: -1
+Cabin
+  rotate: false
+  xy: 2, 274
+  size: 172, 295
+  orig: 172, 295
+  offset: 0, 0
+  index: -1
+TXT
+  rotate: true
+  xy: 650, 684
+  size: 82, 23
+  orig: 82, 23
+  offset: 0, 0
+  index: -1
+blink_green
+  rotate: false
+  xy: 176, 488
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+blink_red
+  rotate: false
+  xy: 176, 405
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+brizgi
+  rotate: true
+  xy: 128, 176
+  size: 96, 46
+  orig: 96, 47
+  offset: 0, 1
+  index: -1
+closeddoor
+  rotate: false
+  xy: 695, 782
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+first_flor
+  rotate: true
+  xy: 2, 2
+  size: 270, 124
+  orig: 270, 124
+  offset: 0, 0
+  index: -1
+kiele
+  rotate: false
+  xy: 176, 352
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+lifebuoy
+  rotate: false
+  xy: 258, 496
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+mast
+  rotate: false
+  xy: 650, 768
+  size: 43, 146
+  orig: 43, 146
+  offset: 0, 0
+  index: -1
+ref1
+  rotate: true
+  xy: 128, 113
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+ref2
+  rotate: true
+  xy: 625, 613
+  size: 94, 23
+  orig: 94, 23
+  offset: 0, 0
+  index: -1
+reflect1
+  rotate: false
+  xy: 2, 581
+  size: 723, 25
+  orig: 723, 25
+  offset: 0, 0
+  index: -1
+screwblade1
+  rotate: false
+  xy: 258, 471
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+screwstick
+  rotate: false
+  xy: 643, 572
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+screwstick2
+  rotate: false
+  xy: 324, 547
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+second_flor
+  rotate: false
+  xy: 799, 871
+  size: 223, 149
+  orig: 223, 149
+  offset: 0, 0
+  index: -1
+shadowreflect
+  rotate: false
+  xy: 2, 608
+  size: 621, 99
+  orig: 621, 99
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: true
+  xy: 695, 830
+  size: 84, 102
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+tube
+  rotate: true
+  xy: 799, 846
+  size: 23, 78
+  orig: 23, 78
+  offset: 0, 0
+  index: -1
+waterline
+  rotate: false
+  xy: 2, 571
+  size: 639, 8
+  orig: 639, 8
+  offset: 0, 0
+  index: -1
+watersurface
+  rotate: false
+  xy: 2, 916
+  size: 795, 104
+  orig: 795, 104
+  offset: 0, 0
+  index: -1

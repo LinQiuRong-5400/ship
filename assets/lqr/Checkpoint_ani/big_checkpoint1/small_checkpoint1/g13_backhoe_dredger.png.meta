@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d63ba705-e5f7-4ac8-9a82-e944685c1726",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": true,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 1024,
+  "platformSettings": {},
+  "subMetas": {
+    "g13_backhoe_dredger": {
+      "ver": "1.0.4",
+      "uuid": "95535d4f-8f99-4731-af97-013b93c3a5e7",
+      "rawTextureUuid": "d63ba705-e5f7-4ac8-9a82-e944685c1726",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 1021,
+      "height": 1020,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
